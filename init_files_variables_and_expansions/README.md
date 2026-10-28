@@ -13,3 +13,4 @@
 - 10-love_exponent_breath: displays the result of BREATH to the power LOVE.
 - 11-binary_to_decimal: converts a number from base 2 (stored in BINARY) to base 10.
 - 12-combinations: prints all possible combinations of two lowercase letters, except oo, one per line in alpha order.
+- 13-print_float: prints the number stored in NUM with two decimal places.
